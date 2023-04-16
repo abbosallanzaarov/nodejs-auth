@@ -1,0 +1,10 @@
+login       POST
+register    POST
+
+photos/
+    GET  getAll
+    GET  getForUser
+    POST upload
+
+jwt multer 
+store dispatcher
